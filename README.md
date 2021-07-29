@@ -7,7 +7,7 @@ Structure-Preserving Deraining with Residue Channel Prior Guidance (ICCV2021)
 * NVIDIA GPU + CUDA CuDNN (CUDA 10.0)
 * PyTorch == 0.4.1 (1.0.x and higher version need revise the dataloader.py in folder "../src/", refer to "Friendly Tips" for details)
 * torchvision0.2.0
-* pytorch_wavelets(https://github.com/fbcotter/pytorch_wavelets)
+* [pytorch_wavelets](https://github.com/fbcotter/pytorch_wavelets)
 * Python3.6.0
 * imageio2.5.0
 * numpy1.14.0
