@@ -21,5 +21,12 @@ Structure-Preserving Deraining with Residue Channel Prior Guidance (ICCV2021)
 
 ## Training
 ...
+
+## Test
+...
+
+## Datasets
+...
+
 ## Acknowledgement 
 Code borrows from [RCDNet](https://github.com/hongwang01/RCDNet). Thanks for sharing !
