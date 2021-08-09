@@ -20,11 +20,16 @@
 * h5py2.10.0
 
 ## Training
-...
+```
+$ cd ./src/
+$ python main.py --save spdnet --model spdnet --scale 2 --epochs 300 --batch_size 16 --patch_size 128 --data_train RainHeavy --n_threads 0 --data_test RainHeavyTest --data_range 1-1800/1-200 --loss 1*MSE  --save_results --lr 5e-4 --n_feats 32 --n_resblocks 3
+```
 
 ## Test
-...
-
+```
+$ cd ./src/
+$ python main.py --data_test RainHeavyTest  --ext img --scale 2  --data_range 1-1800/1-200 --pre_train ../experiment/spdnet/model/model_best.pt --model spdnet --test_only --save_results --save RCDNet_test
+```
 ## Datasets
 ...
 
