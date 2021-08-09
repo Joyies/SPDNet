@@ -21,8 +21,8 @@
 
 ## Training
 1. Modify data path in rainheavy.py and rainheavytest.py
-datapath/data/******.png 
-datapath/label/******.png
+datapath/data/\*\*\*.png <br/>
+datapath/label/\*\*\*.png
 3. Begining training:
 ```
 $ cd ./src/
