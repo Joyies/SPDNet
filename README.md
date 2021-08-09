@@ -20,7 +20,7 @@
 * h5py2.10.0
 
 ## Training
-1. Modify data path in rainheavy.py and rainheavytest.py <br/>
+1. Modify data path in src/data/rainheavy.py and src/data/rainheavytest.py <br/>
 datapath/data/\*\*\*.png <br/>
 datapath/label/\*\*\*.png
 3. Begining training:
