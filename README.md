@@ -30,6 +30,8 @@ $ python main.py --save spdnet --model spdnet --scale 2 --epochs 300 --batch_siz
 ```
 
 ## Test
+The pre-trained model can be [download] (https://drive.google.com/drive/folders/1ylON5AkJVayoypOXDaUEkYd76LtMF-lB?usp=sharing).
+
 ```
 $ cd ./src/
 $ python main.py --data_test RainHeavyTest  --ext img --scale 2  --data_range 1-1800/1-200 --pre_train ../experiment/spdnet/model/model_best.pt --model spdnet --test_only --save_results --save RCDNet_test
