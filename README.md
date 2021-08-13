@@ -30,7 +30,7 @@ $ python main.py --save spdnet --model spdnet --scale 2 --epochs 300 --batch_siz
 ```
 
 ## Test
-The pre-trained model can be [download] (https://drive.google.com/drive/folders/1ylON5AkJVayoypOXDaUEkYd76LtMF-lB?usp=sharing).
+The pre-trained model can be [download](https://drive.google.com/drive/folders/1ylON5AkJVayoypOXDaUEkYd76LtMF-lB?usp=sharing).
 
 ```
 $ cd ./src/
