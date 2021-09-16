@@ -1,7 +1,6 @@
 # SPDNet
-## Structure-Preserving Deraining with Residue Channel Prior Guidance (ICCV2021)
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2108.09079)
-[![GitHub Stars](https://img.shields.io/github/stars/Joyies/SPDNet?style=social)](https://github.com/Joyies/SPDNet)
+## Structure-Preserving Deraining with Residue Channel Prior Guidance (ICCV2021) [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2108.09079) [![GitHub Stars](https://img.shields.io/github/stars/Joyies/SPDNet?style=social)](https://github.com/Joyies/SPDNet)
+
 ## Requirements
 
 * Linux Platform
