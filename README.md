@@ -50,6 +50,7 @@ Code borrows from [RCDNet](https://github.com/hongwang01/RCDNet). Thanks for sha
 
 ## Citation
 If you find this repository useful, please consider giving a star and citation SPDNet:
+
 '''
 @InProceedings{Yi_2021_ICCV,
     author    = {Yi, Qiaosi and Li, Juncheng and Dai, Qinyan and Fang, Faming and Zhang, Guixu and Zeng, Tieyong},
