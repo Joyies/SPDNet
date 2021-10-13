@@ -48,17 +48,3 @@ All PSNR and SSIM results are computed by using this [Matlab code](https://githu
 ## Acknowledgement 
 Code borrows from [RCDNet](https://github.com/hongwang01/RCDNet). Thanks for sharing !
 
-## Citation
-If you find this repository useful, please consider giving a star and citation SPDNet:
-
-```
-@InProceedings{Yi_2021_ICCV,
-    author    = {Yi, Qiaosi and Li, Juncheng and Dai, Qinyan and Fang, Faming and Zhang, Guixu and Zeng, Tieyong},
-    title     = {Structure-Preserving Deraining With Residue Channel Prior Guidance},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2021},
-    pages     = {4238-4247}
-}
-```
-
