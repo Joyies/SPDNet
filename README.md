@@ -34,7 +34,7 @@ The pre-trained model can be available at google drive: https://drive.google.com
 
 ```
 $ cd ./src/
-$ python main.py --data_test RainHeavyTest  --ext img --scale 2  --data_range 1-1800/1-200 --pre_train ../experiment/spdnet/model/model_best.pt --model spdnet --test_only --save_results --save RCDNet_test
+$ python main.py --data_test RainHeavyTest  --ext img --scale 2  --data_range 1-1800/1-200 --pre_train ../experiment/spdnet/model/model_best.pt --model spdnet --test_only --save_results --save SPDNet_test
 ```
 All PSNR and SSIM results are computed by using this [Matlab code](https://github.com/csdwren/PReNet/tree/master/statistic), based on Y channel of YCbCr space.
 
